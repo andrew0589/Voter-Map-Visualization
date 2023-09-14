@@ -1,0 +1,37 @@
+{
+    "labels": {
+        "0": [
+            "EAJ-PNV",
+            "F.I.A.",
+            "PSOE",
+            "ADELANTE ANDALUC\u00cdA",
+            "A.H.I.",
+            "ALM"
+        ]
+    },
+    "datasets": [
+        {
+            "backgroundColor": [
+                [
+                    "rgba( 39, 174, 96, 0.8)",
+                    "rgba(187, 143, 206, 0.8)",
+                    "rgba( 228, 0, 35, 0.8)",
+                    "rgba( 88, 214, 141, 0.8)",
+                    "rgba(0, 0, 0 ,0.8)",
+                    "rgba(245, 176, 65, 0.8)"
+                ]
+            ],
+            "data": {
+                "0": [
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ]
+            },
+            "borderWidth": 0
+        }
+    ]
+}
